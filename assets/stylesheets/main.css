@@ -224,3 +224,27 @@ figcaption {
 	margin-top: 10px;
 	font-size: 16px;
 }
+
+#bicep2_pic {
+	max-width: 900px;
+	margin-left: -150px;
+}
+
+#bicep2_text {
+	font-size: 20px;
+	color: #666666;
+	margin-left: -150px;
+	margin-right: -160px;
+}
+
+#end_text {
+	font-size: 14px;
+	margin-right: -10px;
+	color: rgb(102, 102, 102);
+}
+
+#comment_btn {
+	font-size: 18px;
+	text-align: center;
+	width: 400px;
+}
