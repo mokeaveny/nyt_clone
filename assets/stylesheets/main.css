@@ -52,6 +52,13 @@ body {
 	font-size: 11px;
 }
 
+.article_header {
+	width: 100%;
+	position: fixed;
+	background-color: #fff;
+	z-index: 10;
+}
+
 .nav_bar {
 	display: flex;
 	justify-content: space-between;
@@ -131,7 +138,7 @@ body {
 	font-family: 'Vollkorn';
 	width: 600px;
 	line-height: 50px;
-	margin-top: 40px;
+	margin-top: 100px;
 }
 
 #alan_guth_image {
@@ -186,4 +193,34 @@ figcaption {
 .article_text {
 	font-size: 20px;
 	line-height: 30px;
+}
+
+.article_subheading {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.inflation_section {
+	margin-top: 20px;
+	margin-left: -300px;
+	display: block;
+	position: relative;
+	width: 1200px;
+}
+
+#inflation_title {
+	font-size: 28px;
+	margin-top: 10px;
+}
+
+.inflation_text {
+	font-size: 18px;
+	color: #666666;
+	margin-bottom: 10px;
+}
+
+#inflation_pic_author {
+	color: #333;
+	margin-top: 10px;
+	font-size: 16px;
 }
