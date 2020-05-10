@@ -248,3 +248,88 @@ figcaption {
 	text-align: center;
 	width: 400px;
 }
+
+.footer_social_media_icons {
+	margin-top: -35px;
+	margin-left: 450px;
+}
+
+#social_media_icons_footer_pic {
+	height: 40px;
+	margin-right: -150px;
+}
+
+.recommended_section {
+	width: 1300px;
+	height: 1150px;
+	margin-top: 50px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+#recommended_subheading {
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.recommended_articles_box {
+	margin-top: 20px;
+	height: 675px;
+	width: 910px;
+	border-bottom: 1px solid black;
+}
+
+.recommended_image {
+	width: 300px;
+	height: 300px;
+	margin-top: 10px;
+}
+
+#bottom_image {
+	margin-top: 60px;
+}
+
+.popular_box {
+	margin-left: 950px;
+	margin-top: -735px;
+	width: 350px;
+	height: 800px;
+	display: flex;
+	flex-direction: column;
+}
+
+.popular_article_recommendation {
+	font-size: 1.1875rem;
+	line-height: 1.4375rem;
+	font-family: nyt-cheltenham, georgia, "times new roman", times, serif;
+	font-weight: 500;
+	border-top: 1px solid #e2e2e2;
+	margin-top: 18px;
+	padding-top: 18px;
+}
+
+.popular_article_recommendation:link {
+	color: rgb(18, 18, 18);
+	text-decoration: none;
+}
+
+.popular_article_recommendation:visited {
+	color: rgb(18, 18, 18);
+	text-decoration: none;
+}
+
+.popular_article_recommendation:hover {
+	color: rgb(18, 18, 18);
+	text-decoration: none;
+}
+
+.popular_article_recommendation:active {
+	color: rgb(18, 18, 18);
+	text-decoration: none;
+}
+
+#editors_pick_pic {
+	margin-top: 10px;
+	width: 900px;
+	height: 300px;
+}
