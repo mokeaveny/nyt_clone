@@ -333,3 +333,31 @@ figcaption {
 	width: 900px;
 	height: 300px;
 }
+
+.article_footer {
+	width: 1300px;
+	height: 500px;
+	display: flex;
+	flex-direction: row;
+}
+
+.article_footer_top {
+	height: 50px;
+}
+
+.footer_column {
+	margin-top: 75px;
+	height: 300px;
+	width: 200px;
+	flex-direction: column;
+}
+
+#footer_news_column {
+	margin-left: -250px;
+}
+
+.footer_column_items {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	font-size: 16px;
+}
